@@ -1,0 +1,117 @@
+{
+  "developerInfo": {
+    "fullName": "尚杰",
+    "englishName": "Jerry Shang",
+    "title": "工业设计师 / Industrial Designer",
+    "bio": "用理性解构物理形态，以极简重塑感知体验。专注于探索美学与功能的极致统一，通过严苛的 CMF（色彩、材质、表面工艺）考量与人机工程学，让物件温润轻盈地融于日常生活。",
+    "bioEn": "Deconstructing physical forms with reason, reshaping sensory experiences with minimalism. Focused on the supreme alignment of aesthetics and function. Through rigorous CMF considerations and ergonomics, products merge warmly and fluidly into daily rituals."
+  },
+  "educationInfo": {
+    "school": "国立设计与艺术学院",
+    "schoolEn": "National Academy of Design & Arts (NADA)",
+    "degree": "工业设计学士 / Bachelor of Industrial Design",
+    "degreeEn": "B.F.A. in Industrial Product Design",
+    "period": "2021 - 2025",
+    "gpa": "GPA 3.92 / 4.0 (Top 3% Outstanding graduate)"
+  },
+  "coursesList": [
+    {
+      "id": "c1",
+      "name": "产品三维精细建模",
+      "nameEn": "Advanced 3D Modeling & CAD",
+      "icon": "📐",
+      "description": "基于 SolidWorks & Rhino 进行精密曲面重构与工业级结构设计，打通设计到制造的壁垒。",
+      "descriptionEn": "High-precision surface engineering and product assembly matching with industrial specifications."
+    },
+    {
+      "id": "c2",
+      "name": "人机工程与可用性",
+      "nameEn": "Ergonomics & Human Factors",
+      "icon": "🧘",
+      "description": "通过人体生理结构与心理触感知，优化产品的持握感与长效交互体验。",
+      "descriptionEn": "Optimizing material grip, weights, tactile response, and seamless interface affordances."
+    },
+    {
+      "id": "c3",
+      "name": "材料科学与制造工艺",
+      "nameEn": "Materials & Production Processes",
+      "icon": "🛠️",
+      "description": "掌握铝合金 CNC 阳极氧化、多色塑料注塑成型等先进制造工艺的局限与魅力。",
+      "descriptionEn": "In-depth understanding of anodized metal milling, injection molding, eco-composites, and finishing."
+    },
+    {
+      "id": "c4",
+      "name": "产品形态语意学",
+      "nameEn": "Product Form Semantics",
+      "icon": "🎨",
+      "description": "探究线条、曲率、体量感对用户的心流暗示，使产品“无言而自明其用”。",
+      "descriptionEn": "Decoding visual metaphors to design product forms that intuitively guide operations without labels."
+    },
+    {
+      "id": "c5",
+      "name": "CMF (色彩、材料与工艺研究)",
+      "nameEn": "CMF Design & Trend Analysis",
+      "icon": "💎",
+      "description": "考量工艺漆面、微光亚微反射及触感涂层，调配属于未来的产品气质底色。",
+      "descriptionEn": "Harmonizing tactile paint layers, satin-finish reflection indices, and sensory colorscapes."
+    },
+    {
+      "id": "c6",
+      "name": "交互体验与数字原型",
+      "nameEn": "Interactive Design Prototyping",
+      "icon": "💻",
+      "description": "跨界数智产品，设计集物理按合、声音反馈与屏幕显示三位一体的协同体验。",
+      "descriptionEn": "Integrating analog button press, auditory beeps, and screen visual layouts into unified ecosystems."
+    }
+  ],
+  "projectsList": [
+    {
+      "id": "p1",
+      "title": "AeroStream - 极简空气循环智能扇",
+      "titleEn": "AeroStream - Minimalist Air Circulation Fan",
+      "category": "智能家居 / Smart Appliance",
+      "categoryEn": "Smart Home",
+      "description": "一台消融于室内的气流调节装置。剔除多余棱角，采用一体轧制喷砂铝制支架和无格栅机身设计，融合手势触控和直流变频静音电机。",
+      "descriptionEn": "A background-blending air flow regulator. Free of outer joints, crafted with anodized continuous aluminum and fluid dynamics fan blades for whisper-soft operation.",
+      "imageUrl": "https://images.unsplash.com/photo-1545454675-3531b543be5d?q=80&w=800&auto=format&fit=crop",
+      "mediaType": "image",
+      "specs": [
+        { "label": "材质", "val": "6系航空阻燃铝 / 120目超细喷砂" },
+        { "label": "工艺", "val": "一体挤压拉伸 / 五轴精雕CNC" },
+        { "label": "交互", "val": "全维手势非接触感应 / 线性触觉回馈" }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Chronos One - 钛金属精密机械腕表",
+      "titleEn": "Chronos One - Precision Titanium Watch",
+      "category": "穿戴装备 / Wristwear",
+      "categoryEn": "Wearable Gear",
+      "description": "探索金属力量与时间纯粹性的先锋实验。5级钛合金外壳辅以极窄表圈，透过透底蓝宝石表镜展现自研层叠摆陀的立体咬合美感。",
+      "descriptionEn": "A mechanical dialogue with modern architecture. Grade-5 titanium chassis paired with floating inner mechanical calipers under anti-reflective crystal sapphire.",
+      "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=800&auto=format&fit=crop",
+      "mediaType": "image",
+      "specs": [
+        { "label": "外壳", "val": "Grade-5 医疗级钛合金" },
+        { "label": "表带", "val": "氟橡胶一体硫化成型 / 磁吸快拆" },
+        { "label": "核心", "val": "自研超薄微摆陀机芯 / 42小时动能储备" }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Lumos Sphere - 重力体感桌面氛围灯",
+      "titleEn": "Lumos Sphere - Gravitational Ambient Lamp",
+      "category": "智能照明 / Visual Optics",
+      "categoryEn": "Achromatic Lighting",
+      "description": "将物理重力重置为照明载体。倾斜灯体可渐变亮度，翻置则瞬间关闭。特制的磨砂光导板提供如日光般的均匀面扩散，极力避免直射目眩。",
+      "descriptionEn": "Utilizing gravity shifts for analog interaction. Tilting adjusts dispersion gradients while turning over triggers auto-sleep. Frosted micro-lens array ensures soft illumination.",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-minimalist-watch-dial-extreme-close-up-42171-large.mp4",
+      "mediaType": "video",
+      "specs": [
+        { "label": "光源", "val": "高显指 LED (Ra > 97) / 无频闪调光" },
+        { "label": "反馈", "val": "陀螺仪姿态辨识 / 气压式无极旋钮" },
+        { "label": "供电", "val": "5000mAh 高能锂聚合物电池 / USB-C PD" }
+      ]
+    }
+  ]
+}
