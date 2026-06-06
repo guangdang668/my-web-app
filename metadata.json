@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Minimalist Industrial Portfolio",
+  "description": "Modern minimalist portfolio for industrial designers featuring education highlights, an animated project grid, and a sleek Apple-inspired aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
